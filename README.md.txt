@@ -30,3 +30,11 @@ Some controls may not be properly implemented, leading to potential risks.
 
 ## Conclusion
 Regular audits and compliance checks help ensure that security policies are followed effectively.
+
+## Risk Observation
+Non-compliance with security controls can lead to vulnerabilities and increased exposure to cyber threats.
+
+## Business Impact
+- Increased risk of security breaches
+- Non-compliance with regulations
+- Potential financial and reputational damage
